@@ -23,6 +23,7 @@ References for the PyData 2019 presentation "the physics of deep learning using 
 ## Entanglement Measures
 
 - [Plenio et al (2005)](https://arxiv.org/abs/quant-ph/0504163)
+- [Cui et al (2016): "quantum min cut / max flow"](https://aip.scitation.org/doi/abs/10.1063/1.4954231)
 
 ## Tensor Networks / ML
 
